@@ -15,3 +15,4 @@ pertaining to sight, nose and palate.</p>
 
 
 <h2>Demo</h2>
+<img src="/images/demo.gif" alt="Oenofiles Demo"/>
